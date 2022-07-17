@@ -57,10 +57,10 @@ def getinfo():
 
             if '縣' in rawinfo:
                 County += [rawinfo[rawinfo.index('縣')-3:rawinfo.index('縣')+1]]
-                dist += [rawinfo[rawinfo.index('縣'):]]
+                dist += [rawinfo[rawinfo.index('縣')+1:]]
             else :
                 County += [rawinfo[rawinfo.index('市')-3:rawinfo.index('市')+1]]
-                dist += [rawinfo[rawinfo.index('市'):]]
+                dist += [rawinfo[rawinfo.index('市')+1:]]
 
             av +=       [driver.find_element(By.XPATH, '//*[@id="divContent"]/table/tbody/tr[4]/td/table/tbody/tr[3]/td[1]').get_attribute('textContent')]
             nav+=       [driver.find_element(By.XPATH, '//*[@id="divContent"]/table/tbody/tr[4]/td/table/tbody/tr[3]/td[2]').get_attribute('textContent')]
