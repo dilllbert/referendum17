@@ -1,0 +1,1184 @@
+1658056475751	geckodriver	INFO	Listening on 127.0.0.1:51870
+1658056478812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "51871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileOIZeJ9"
+*** You are running in headless mode.
+1658056479548	Marionette	INFO	Marionette enabled
+1658056479554	Marionette	INFO	Listening on port 51884
+WebDriver BiDi listening on ws://localhost:51871
+Read port: 51884
+1658056479706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileOIZeJ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51871/devtools/browser/a0432e0e-6715-4ea9-95ee-74dce8dcfceb
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056495499	geckodriver	INFO	Listening on 127.0.0.1:51931
+1658056498565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "51932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilefHy1DH"
+*** You are running in headless mode.
+1658056499116	Marionette	INFO	Marionette enabled
+1658056499122	Marionette	INFO	Listening on port 51944
+WebDriver BiDi listening on ws://localhost:51932
+Read port: 51944
+1658056499216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilefHy1DH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51932/devtools/browser/abd698b1-8e4a-4a2e-b80d-ecc1c5b725ae
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056546161	geckodriver	INFO	Listening on 127.0.0.1:52033
+1658056549207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile60uf8u"
+*** You are running in headless mode.
+1658056549782	Marionette	INFO	Marionette enabled
+1658056549786	Marionette	INFO	Listening on port 52046
+WebDriver BiDi listening on ws://localhost:52034
+Read port: 52046
+1658056550037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile60uf8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52034/devtools/browser/058022e7-da9f-4095-8af5-3fbfd49f8271
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056602398	geckodriver	INFO	Listening on 127.0.0.1:52128
+1658056605446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileO2CJI4"
+*** You are running in headless mode.
+1658056605955	Marionette	INFO	Marionette enabled
+1658056605959	Marionette	INFO	Listening on port 52140
+WebDriver BiDi listening on ws://localhost:52129
+Read port: 52140
+1658056606142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileO2CJI4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52129/devtools/browser/a2fe2cc1-687d-4d3d-803f-eb8aaf3e3ed5
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056631849	geckodriver	INFO	Listening on 127.0.0.1:52191
+1658056634955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile20Mbv0"
+*** You are running in headless mode.
+1658056635271	Marionette	INFO	Marionette enabled
+1658056635275	Marionette	INFO	Listening on port 52204
+WebDriver BiDi listening on ws://localhost:52192
+Read port: 52204
+1658056635375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile20Mbv0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52192/devtools/browser/0d6a1976-181d-4ad6-8c23-ef8d362cde6a
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056669530	geckodriver	INFO	Listening on 127.0.0.1:52266
+1658056672608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileMlKA8j"
+*** You are running in headless mode.
+1658056672932	Marionette	INFO	Marionette enabled
+1658056672936	Marionette	INFO	Listening on port 52278
+WebDriver BiDi listening on ws://localhost:52267
+Read port: 52278
+1658056673035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileMlKA8j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52267/devtools/browser/9aa9c68a-0a12-4ea0-bcde-288165f06553
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056742828	geckodriver	INFO	Listening on 127.0.0.1:52368
+1658056745898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileOufLZG"
+*** You are running in headless mode.
+1658056746222	Marionette	INFO	Marionette enabled
+1658056746226	Marionette	INFO	Listening on port 52381
+WebDriver BiDi listening on ws://localhost:52369
+Read port: 52381
+1658056746320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileOufLZG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52369/devtools/browser/1ea23382-2744-4a27-a223-d853466d9c11
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056754934	geckodriver	INFO	Listening on 127.0.0.1:52425
+1658056757961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileuu3Zv6"
+*** You are running in headless mode.
+1658056758288	Marionette	INFO	Marionette enabled
+1658056758292	Marionette	INFO	Listening on port 52437
+WebDriver BiDi listening on ws://localhost:52426
+Read port: 52437
+1658056758386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileuu3Zv6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52426/devtools/browser/f5d0ef9f-56a0-4571-ae76-4c04f32d76ea
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056855307	geckodriver	INFO	Listening on 127.0.0.1:52596
+1658056858380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileJKNxtl"
+*** You are running in headless mode.
+1658056858935	Marionette	INFO	Marionette enabled
+1658056858939	Marionette	INFO	Listening on port 52608
+WebDriver BiDi listening on ws://localhost:52597
+Read port: 52608
+1658056859029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileJKNxtl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52597/devtools/browser/ac189850-9f1a-4c92-869c-e5f0d3aaccf3
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658056954070	geckodriver	INFO	Listening on 127.0.0.1:52700
+1658056957125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewr61U0"
+*** You are running in headless mode.
+1658056957681	Marionette	INFO	Marionette enabled
+1658056957685	Marionette	INFO	Listening on port 52713
+WebDriver BiDi listening on ws://localhost:52701
+Read port: 52713
+1658056957777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewr61U0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52701/devtools/browser/be39e393-a378-4473-9545-d0e7cdcec957
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52806
+1658057027058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "52807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilefOOKDs"
+*** You are running in headless mode.
+1658057027392	Marionette	INFO	Marionette enabled
+1658057027397	Marionette	INFO	Listening on port 52818
+WebDriver BiDi listening on ws://localhost:52807
+Read port: 52818
+1658057027493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilefOOKDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52807/devtools/browser/ac6a6f0c-336c-407d-a16f-f131788b8ecf
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1658057782784	geckodriver	INFO	Listening on 127.0.0.1:53346
+1658057785854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileNaRoTy"
+*** You are running in headless mode.
+1658057786176	Marionette	INFO	Marionette enabled
+1658057786181	Marionette	INFO	Listening on port 53359
+WebDriver BiDi listening on ws://localhost:53347
+Read port: 53359
+1658057786272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileNaRoTy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53347/devtools/browser/cb72a283-51e2-48ce-93bd-b97baf8833d6
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658057806788	geckodriver	INFO	Listening on 127.0.0.1:53409
+1658057809866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilepT2Lry"
+*** You are running in headless mode.
+1658057810197	Marionette	INFO	Marionette enabled
+1658057810201	Marionette	INFO	Listening on port 53422
+WebDriver BiDi listening on ws://localhost:53410
+Read port: 53422
+1658057810297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilepT2Lry\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53410/devtools/browser/aa268f36-b7b1-424c-9586-0ce697363022
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658057868573	geckodriver	INFO	Listening on 127.0.0.1:53497
+1658057871634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileY8dCiZ"
+*** You are running in headless mode.
+1658057871971	Marionette	INFO	Marionette enabled
+1658057871977	Marionette	INFO	Listening on port 53512
+WebDriver BiDi listening on ws://localhost:53498
+Read port: 53512
+1658057872069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileY8dCiZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53498/devtools/browser/6aa0220a-0c24-4d2c-bad4-43f71eb345a3
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658057917004	geckodriver	INFO	Listening on 127.0.0.1:53588
+1658057920061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileDZ8Uvs"
+*** You are running in headless mode.
+1658057920659	Marionette	INFO	Marionette enabled
+1658057920663	Marionette	INFO	Listening on port 53611
+WebDriver BiDi listening on ws://localhost:53589
+Read port: 53610
+1658057920919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofiledhx2jN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53590/devtools/browser/938274c5-ec14-4828-a15c-f88b0325120c
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658057980608	geckodriver	INFO	Listening on 127.0.0.1:53744
+1658057983666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileby6tW4"
+*** You are running in headless mode.
+1658057984241	Marionette	INFO	Marionette enabled
+1658057984246	Marionette	INFO	Listening on port 53757
+WebDriver BiDi listening on ws://localhost:53745
+Read port: 53757
+1658057984484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileby6tW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53745/devtools/browser/5e160769-6fc8-42d3-9119-ed2a8155043e
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058022855	geckodriver	INFO	Listening on 127.0.0.1:53850
+1658058025938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileMuFBby"
+*** You are running in headless mode.
+1658058026508	Marionette	INFO	Marionette enabled
+1658058026512	Marionette	INFO	Listening on port 53865
+WebDriver BiDi listening on ws://localhost:53851
+Read port: 53865
+1658058026750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileMuFBby\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53851/devtools/browser/7871b827-204e-4d31-bc9a-626b2dc1ffa5
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058048878	geckodriver	INFO	Listening on 127.0.0.1:53951
+1658058051937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "53952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileUEIXud"
+*** You are running in headless mode.
+1658058052537	Marionette	INFO	Marionette enabled
+1658058052542	Marionette	INFO	Listening on port 53963
+WebDriver BiDi listening on ws://localhost:53952
+Read port: 53963
+1658058052749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileUEIXud\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53952/devtools/browser/fe800ca4-902e-4314-8913-e6b3e5b4030a
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058082612	geckodriver	INFO	Listening on 127.0.0.1:54027
+1658058085715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewkLRHP"
+*** You are running in headless mode.
+1658058086210	Marionette	INFO	Marionette enabled
+1658058086214	Marionette	INFO	Listening on port 54043
+WebDriver BiDi listening on ws://localhost:54028
+Read port: 54043
+1658058086412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewkLRHP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54028/devtools/browser/6488c9af-ce61-483a-b4b1-517510bfd5a3
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058149700	geckodriver	INFO	Listening on 127.0.0.1:54132
+1658058152787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileQKrT5o"
+*** You are running in headless mode.
+1658058153113	Marionette	INFO	Marionette enabled
+1658058153117	Marionette	INFO	Listening on port 54145
+WebDriver BiDi listening on ws://localhost:54133
+Read port: 54145
+1658058153210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileQKrT5o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54133/devtools/browser/ed387138-bfc1-40d5-9662-db33b7ab6dff
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058303606	geckodriver	INFO	Listening on 127.0.0.1:54298
+1658058306676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileeuRWx0"
+*** You are running in headless mode.
+1658058306989	Marionette	INFO	Marionette enabled
+1658058306993	Marionette	INFO	Listening on port 54312
+WebDriver BiDi listening on ws://localhost:54299
+Read port: 54312
+1658058307082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileeuRWx0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54299/devtools/browser/43b18286-ed4c-4f3f-96d3-d69b44a022bd
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058325081	geckodriver	INFO	Listening on 127.0.0.1:54364
+1658058328165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilekOqakK"
+*** You are running in headless mode.
+1658058328496	Marionette	INFO	Marionette enabled
+1658058328500	Marionette	INFO	Listening on port 54376
+WebDriver BiDi listening on ws://localhost:54365
+Read port: 54376
+1658058328591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilekOqakK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54365/devtools/browser/110a11d5-947e-43cd-97d9-1e98444f5339
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058367969	geckodriver	INFO	Listening on 127.0.0.1:54447
+1658058371050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54448" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilezzQcnY"
+*** You are running in headless mode.
+1658058371369	Marionette	INFO	Marionette enabled
+1658058371373	Marionette	INFO	Listening on port 54460
+WebDriver BiDi listening on ws://localhost:54448
+Read port: 54460
+1658058371473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilezzQcnY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54448/devtools/browser/b44ddb89-f2da-4477-aef7-c0a87a3e0baa
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058398853	geckodriver	INFO	Listening on 127.0.0.1:54523
+1658058401914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileiw7JbU"
+*** You are running in headless mode.
+1658058402248	Marionette	INFO	Marionette enabled
+1658058402252	Marionette	INFO	Listening on port 54535
+WebDriver BiDi listening on ws://localhost:54524
+Read port: 54535
+1658058402360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileiw7JbU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54524/devtools/browser/72411964-0586-4613-a95d-c3a2c65fe3dc
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058414187	geckodriver	INFO	Listening on 127.0.0.1:54582
+1658058417243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile49sFL3"
+*** You are running in headless mode.
+1658058417660	Marionette	INFO	Marionette enabled
+1658058417664	Marionette	INFO	Listening on port 54594
+WebDriver BiDi listening on ws://localhost:54583
+Read port: 54594
+1658058417759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile49sFL3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54583/devtools/browser/2d872ce8-75f7-4685-bb20-4a5130c9d493
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058435786	geckodriver	INFO	Listening on 127.0.0.1:54643
+1658058438843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileTYqsYo"
+*** You are running in headless mode.
+1658058439164	Marionette	INFO	Marionette enabled
+1658058439168	Marionette	INFO	Listening on port 54655
+WebDriver BiDi listening on ws://localhost:54644
+Read port: 54655
+1658058439261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileTYqsYo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54644/devtools/browser/fea0def0-e69c-4748-af45-383fd3fbc85d
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058467305	geckodriver	INFO	Listening on 127.0.0.1:54713
+1658058471425	geckodriver	INFO	Listening on 127.0.0.1:54721
+1658058474494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileWVMiyB"
+*** You are running in headless mode.
+1658058474817	Marionette	INFO	Marionette enabled
+1658058474821	Marionette	INFO	Listening on port 54733
+WebDriver BiDi listening on ws://localhost:54722
+Read port: 54733
+1658058474910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileWVMiyB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54722/devtools/browser/b2409ffd-857c-476e-a65a-d8e333f6de50
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54809
+1658058516847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileWlCRwp"
+*** You are running in headless mode.
+1658058517166	Marionette	INFO	Marionette enabled
+1658058517170	Marionette	INFO	Listening on port 54822
+WebDriver BiDi listening on ws://localhost:54810
+Read port: 54822
+1658058517260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileWlCRwp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54810/devtools/browser/e6518664-66f4-45ae-95ab-6dbbe483b73f
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54919
+1658058604966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile8S0pYw"
+*** You are running in headless mode.
+1658058605301	Marionette	INFO	Marionette enabled
+1658058605305	Marionette	INFO	Listening on port 54932
+WebDriver BiDi listening on ws://localhost:54920
+Read port: 54932
+1658058605399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofile8S0pYw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54920/devtools/browser/3fde6ca7-04de-49d7-b61f-0bf7a6a5e712
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54985
+1658058625694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewf6XSN"
+*** You are running in headless mode.
+1658058626027	Marionette	INFO	Marionette enabled
+1658058626031	Marionette	INFO	Listening on port 55000
+WebDriver BiDi listening on ws://localhost:54986
+Read port: 55000
+1658058626121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewf6XSN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54986/devtools/browser/d95bea15-63f2-40dd-b851-8916c4bd91f7
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55052
+1658058650388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "55053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileBoblj7"
+*** You are running in headless mode.
+1658058650715	Marionette	INFO	Marionette enabled
+1658058650719	Marionette	INFO	Listening on port 55064
+WebDriver BiDi listening on ws://localhost:55053
+Read port: 55064
+1658058650812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileBoblj7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55053/devtools/browser/bbb37ba1-e91b-484d-85c0-b8f15c8de3ea
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55113
+1658058668620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "55114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewEFvlY"
+*** You are running in headless mode.
+1658058668998	Marionette	INFO	Marionette enabled
+1658058669002	Marionette	INFO	Listening on port 55133
+WebDriver BiDi listening on ws://localhost:55114
+Read port: 55133
+1658058669274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofilewEFvlY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55114/devtools/browser/0d03fcd9-867b-4224-9e28-3e1bf181ac4c
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058725006	geckodriver	INFO	Listening on 127.0.0.1:55238
+1658058728134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "55239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileFLaYdk"
+*** You are running in headless mode.
+1658058728539	Marionette	INFO	Marionette enabled
+1658058728544	Marionette	INFO	Listening on port 55251
+WebDriver BiDi listening on ws://localhost:55239
+Read port: 55251
+1658058728649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileFLaYdk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55239/devtools/browser/5386f60a-f439-4090-859a-e212e3315244
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658058775923	geckodriver	INFO	Listening on 127.0.0.1:55319
+1658058779009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "55320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileFe59uM"
+*** You are running in headless mode.
+1658058779337	Marionette	INFO	Marionette enabled
+1658058779341	Marionette	INFO	Listening on port 55333
+WebDriver BiDi listening on ws://localhost:55320
+Read port: 55333
+1658058779447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileFe59uM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55320/devtools/browser/8178d0ba-d9f6-4827-9a8d-780e2b7f103d
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+1658060217440	geckodriver	INFO	Listening on 127.0.0.1:56160
+1658060220505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-notifications" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "56161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileVGi4mP"
+*** You are running in headless mode.
+1658060221087	Marionette	INFO	Marionette enabled
+1658060221091	Marionette	INFO	Listening on port 56173
+WebDriver BiDi listening on ws://localhost:56161
+Read port: 56173
+1658060221346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wally\\AppData\\Local\\Temp\\rust_mozprofileVGi4mP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56161/devtools/browser/3e7262aa-9028-4089-aa66-b646e7c73710
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
+JavaScript error: https://referendum.2021.nat.gov.tw/pc/zh_TW/js/func.js, line 45: TypeError: lastClicked is null
